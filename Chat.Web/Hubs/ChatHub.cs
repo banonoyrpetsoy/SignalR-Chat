@@ -149,3 +149,4 @@ namespace Chat.Web.Hubs
         }
     }
 }
+.
